@@ -109,7 +109,7 @@ public class ScientificCalculator {
 
         System.out.println("============================================");
         System.out.println("     SCIENTIFIC CALCULATOR - OOP PROJECT    ");
-        System.out.println("     B.Tech CSE | 2nd Semester              ");
+        System.out.println("     BCA 2B AI/ML| 2nd Semester              ");
         System.out.println("============================================");
 
         System.out.println("\n--- ADDITION (Method Overloading) ---");
